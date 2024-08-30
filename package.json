@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "slugify": "^1.6.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "37.1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
